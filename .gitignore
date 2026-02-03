@@ -1,0 +1,19 @@
+# --- IDE Settings ---
+.idea/
+*.iml
+
+# --- Python / Environment ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+.env.py
+
+# --- Databases ---
+*.db
+*.sqlite3
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
